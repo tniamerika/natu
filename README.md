@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/natu-logo.PNG" alt="NATU AI Logo" width="200"/>
+  <img src="./assets/natu-logo.PNG" alt="NATU AI Logo" width="300"/>
 </p>
 
 # NATU AI 🌏
