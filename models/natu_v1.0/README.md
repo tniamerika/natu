@@ -11,7 +11,7 @@ Repository ini berisi kumpulan **dataset dan model Machine Learning** yang digun
 ## 1. NATU-FLOOD v1.0
 Model prediksi risiko banjir berbasis data cuaca dan lingkungan wilayah.
 
-![NATU-FLOOD Diagram](/assets/natu-flood.png)
+![NATU-FLOOD Diagram](./assets/natu-flood.png)
 
 **Fitur:**
 - `rain_intensity`
@@ -28,7 +28,7 @@ Model prediksi risiko banjir berbasis data cuaca dan lingkungan wilayah.
 ## 2. NATU-LANDSLIDE v1.0
 Model prediksi risiko tanah longsor berdasarkan curah hujan dan karakteristik topografi.
 
-![NATU-LANDSLIDE Diagram](/assets/natu-landslide.png)
+![NATU-LANDSLIDE Diagram](./assets/natu-landslide.png)
 
 **Fitur:**
 - `rain_duration`
@@ -45,7 +45,7 @@ Model prediksi risiko tanah longsor berdasarkan curah hujan dan karakteristik to
 ## 3. NATU-STORM v1.0
 Model deteksi risiko badai dan cuaca ekstrem.
 
-![NATU-STORM Diagram](/assets/natu-storm.png)
+![NATU-STORM Diagram](./assets/natu-storm.png)
 
 **Fitur:**
 - `rain_intensity`
@@ -61,7 +61,7 @@ Model deteksi risiko badai dan cuaca ekstrem.
 ## 4. NATU-BANSOS v1.0
 Model klasifikasi prioritas bantuan sosial berbasis kondisi sosial, ekonomi, dan dampak bencana.
 
-![NATU-BANSOS Diagram](/assets/natu-bansos.png)
+![NATU-BANSOS Diagram](./assets/natu-bansos.png)
 
 **Fitur:**
 - `child_count_level`
