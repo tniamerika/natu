@@ -1,0 +1,17 @@
+{
+  "user_id": "SMG-BRT-00123",
+  "location": {
+    "city": "Semarang",
+    "district": "Semarang Barat",
+    "near_river": false,
+    "near_hill": false
+  },
+  "history": {
+    "ever_flooded": false,
+    "landslide": false,
+    "strong_wind": true
+  },
+  "environment_condition": {
+    "soil_type": "keras"
+  }
+}

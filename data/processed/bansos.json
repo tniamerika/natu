@@ -1,0 +1,26 @@
+[
+  {
+    "wilayah_id": "DESA-001",
+    "nama_wilayah": "Desa Suka Maju",
+    "child_count_level": 2,
+    "vulnerable_level": 2,
+    "house_damage_level": 3,
+    "income_level": 2,
+    "job_impact_level": 2,
+    "risk_area_level": 2,
+    "evacuation_status": 1,
+    "dtks_status": 1
+  },
+  {
+    "wilayah_id": "DESA-002",
+    "nama_wilayah": "Desa Harapan",
+    "child_count_level": 0,
+    "vulnerable_level": 0,
+    "house_damage_level": 1,
+    "income_level": 1,
+    "job_impact_level": 0,
+    "risk_area_level": 0,
+    "evacuation_status": 0,
+    "dtks_status": 0
+  }
+]

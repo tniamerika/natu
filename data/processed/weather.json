@@ -1,0 +1,26 @@
+{
+  "adm4": "33.74.13.1005",
+  "location": {
+    "adm1": "33",
+    "adm2": "33.74",
+    "adm3": "33.74.13",
+    "adm4": "33.74.13.1005",
+    "provinsi": "Jawa Tengah",
+    "kotkab": "Kota Semarang",
+    "kecamatan": "Semarang Barat",
+    "desa": "Kalibanteng Kulon",
+    "lon": 110.3793089194,
+    "lat": -6.9864656273,
+    "timezone": "Asia/Jakarta"
+  },
+  "weather": {
+    "datetime": "2026-01-19 19:00:00",
+    "weather_description": "Berawan",
+    "temperature": 26,
+    "humidity": 88,
+    "wind_speed": 7.2,
+    "wind_direction": "W",
+    "cloud_cover": 100,
+    "visibility": "> 10 km"
+  }
+}

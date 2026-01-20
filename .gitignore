@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Dataset & Model Besar
+data/raw/
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
